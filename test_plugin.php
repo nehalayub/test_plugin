@@ -4,4 +4,6 @@
 
   echo "updated";
 
+  echo "updated 2 ";
+
 ?>
