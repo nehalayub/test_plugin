@@ -2,4 +2,6 @@
   
   echo "working";
 
+  echo "updated";
+
 ?>
