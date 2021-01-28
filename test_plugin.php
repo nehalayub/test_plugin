@@ -8,3 +8,4 @@
   Author URI: http://codup.io/
   Text Domain: airebeam-scheduler-calendar
  */
+  echo "staging";
